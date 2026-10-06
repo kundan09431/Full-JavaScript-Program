@@ -1,5 +1,3 @@
-const { use } = require("react")
-
 //map() with Objects
 let user = [
     {name : "Kundan", age : 22},
